@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1740772297672,
+    "username": "sarvani",
+    "title": "React Basics",
+    "description": "Understand components, props, state, and the component lifecycle."
+  },
+  {
+    "id": 1740772312721,
+    "username": "sarvani",
+    "title": "Node.js API",
+    "description": "Build RESTful APIs with Express, handle routes, and manage middleware"
+  },
+  {
+    "id": 1740772344876,
+    "username": "sarvani",
+    "title": "JavaScript Closures",
+    "description": "Learn how closures work and why they are useful in JavaScript."
+  },
+  {
+    "id": 1740772360185,
+    "username": "sarvani",
+    "title": "MySQL Queries",
+    "description": "Write complex SQL queries, including joins, group by, and subqueries."
+  },
+  {
+    "id": 1740772377242,
+    "username": "sarvani",
+    "title": "CSS Flexbox & Grid",
+    "description": "Master responsive design with CSS Flexbox and Grid layouts."
+  }
+]
