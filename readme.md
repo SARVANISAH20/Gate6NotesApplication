@@ -159,6 +159,7 @@ Frontend will run on:** `http://localhost:3000`
 
 ```json
 {
+  "username": "sarvani",
   "title": "Shopping List",
   "description": "Buy milk, eggs, and bread."
 }
